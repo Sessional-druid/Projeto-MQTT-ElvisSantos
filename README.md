@@ -8,8 +8,9 @@ O objetivo do projeto é monitorar a porta de um rack usando um Sensor Magnétic
 
 foram utilizadas as seguintes bibliotecas:
 
-UIPEthernet (Conexão do ENC28J60 com arduino)
-PubSubClient (Cliente MQTT para o arduino)
+- UIPEthernet (Conexão do ENC28J60 com arduino)
+
+- PubSubClient (Cliente MQTT para o arduino)
 
 ## Materiais:
 - Arduino Uno
